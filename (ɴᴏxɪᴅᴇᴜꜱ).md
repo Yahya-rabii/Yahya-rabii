@@ -31,7 +31,6 @@
     <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
   </a> 
   &emsp;
-  &emsp; 
   <a href="https://www.django.com/" target="_blank"> 
 <img src="https://img.shields.io/badge/-django-brightgreen"/>
   </a> 

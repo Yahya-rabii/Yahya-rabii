@@ -139,7 +139,7 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/Yahya-rabii"><img alt="yahya rabii Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=yahya-rabii&custom_title=yahya-rabii%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/Yahya-rabii"><img alt="yahya rabii Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=yahya-rabii&custom_title=yahya-rabii's Contribution Graph&theme=react-dark" /></a>
   <br/>
 
 </details>

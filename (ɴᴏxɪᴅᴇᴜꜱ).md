@@ -186,7 +186,7 @@
 
 
 
-<h4 align="center">>you're the <img src="https://profile-counter.glitch.me/yahya-rabii/count.svg"> visitor </h4>
+<h4 align="center">visitors number <br> <img src="https://profile-counter.glitch.me/yahya-rabii/count.svg">  </h4>
 
 <hr/>
 

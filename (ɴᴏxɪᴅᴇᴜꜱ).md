@@ -7,12 +7,12 @@
 <h4 align="center">I am a Junior dev guy , studying at EMSI school . I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
 <br>
 
-## :👨🏻‍💻:  About me
-- :school: I'm in my `fourth` year at `EMSI` school
-- :technologist: I love using Software as a solution for every `Problem`
-- :student: I’m currently learning: `Software Engineering`.
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1c5kCDhgeUkmZGjyKCNJRFjAe-06LrEE2/view).
-- :nerd_face: Always `learning new things`
+## 👨🏻‍💻 About me
+- school: I'm in my `fourth` year at `EMSI` school
+- I love using Software as a solution for every `Problem`
+- student: I’m currently learning: `Software Engineering`.
+- thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1c5kCDhgeUkmZGjyKCNJRFjAe-06LrEE2/view).
+- Always `learning new things`
 
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yahya-rabii&label=Profile%20views&color=0e75b6&style=plastic" alt="yahya-rabii" /> </p>

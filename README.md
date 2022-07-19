@@ -9,7 +9,7 @@
 
 ## 👨🏻‍💻 About me
 - school: I'm in my `fourth` year at `EMSI` school
-- I love using Software as a solution for every `Problem`
+- I love using Softwares as a solution for every `Problem`
 - student: I’m currently learning: `Software Engineering`.
 - thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1c5kCDhgeUkmZGjyKCNJRFjAe-06LrEE2/view).
 - Always `learning new things`

@@ -32,8 +32,8 @@
   </a> 
   &emsp;
   &emsp; 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-<img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>
+  <a href="https://www.django.com/" target="_blank"> 
+<img src="https://img.shields.io/badge/-django-blue%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>
   </a> 
   &emsp;
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 

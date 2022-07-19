@@ -23,12 +23,17 @@
 
 ## 🛠️ My Skills
 
-### 👉 Programming languages
+### 👉 Programming languages & frameworks
 
 <p align="left"> 
   &emsp; 
   <a href="https://www.cprogramming.com/" target="_blank"> 
     <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
+  </a> 
+  &emsp;
+  &emsp; 
+  <a href="https://www.cprogramming.com/" target="_blank"> 
+<img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>
   </a> 
   &emsp;
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
@@ -80,7 +85,12 @@
   &emsp;
     <a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>  
   &emsp;
+    <a href="https://www.sqlserver.com/"><img alt="Heroku" src="https://img.shields.io/badge/-sql%20server-green"></a>  
+  &emsp;
+    <a href="https://www.oracle.com/">   <img src ="https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white" /></a>  
+  &emsp;
    
+
  </p>
   
 ### 👉Graphic Designing

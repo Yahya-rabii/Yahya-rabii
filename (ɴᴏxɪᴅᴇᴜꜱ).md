@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there, I'm Rabii Yahya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><br><img src="https://profile-counter.glitch.me/yahya-rabii/count.svg"> </h1>
+<h1 align="center">Hi there, I'm Rabii Yahya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><br></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Engineering+Student;Web+Developer;Graphic%20Designer;AI%20|%20ML%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
@@ -15,7 +15,7 @@
 - Always `learning new things`
 
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=yahya-rabii&label=Profile%20views&color=0e75b6&style=plastic" alt="yahya-rabii" /> </p>
+<p align="center"> <img src="https://profile-counter.glitch.me/yahya-rabii/count.svg">  </p>
 
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yahya-rabii&theme=algolia" alt="yahya-rabii"  /></p>

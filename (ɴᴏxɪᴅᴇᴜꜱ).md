@@ -33,7 +33,7 @@
   &emsp;
   &emsp; 
   <a href="https://www.django.com/" target="_blank"> 
-<img src="https://img.shields.io/badge/-django-blue%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/-django-brightgreen"/>
   </a> 
   &emsp;
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
@@ -87,7 +87,7 @@
   &emsp;
     <a href="https://www.sqlserver.com/"><img alt="Heroku" src="https://img.shields.io/badge/-sql%20server-green"></a>  
   &emsp;
-    <a href="https://www.oracle.com/">   <img src ="https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white" /></a>  
+    <a href="https://www.oracle.com/">   <img src ="https://img.shields.io/badge/-oracle-red" /></a>  
   &emsp;
    
 

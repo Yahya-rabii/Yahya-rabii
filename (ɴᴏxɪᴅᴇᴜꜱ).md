@@ -125,13 +125,13 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="yahya rabii Github Stats" src="https://github-readme-stats.vercel.app/api?username=candida18&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="yahya rabii Github Stats" src="https://github-readme-stats.vercel.app/api?username=yahya-rabii&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=candida18&show_icons=true&locale=en&layout=compact&theme=algolia" alt="candida18" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yahya-rabii&show_icons=true&locale=en&layout=compact&theme=algolia" alt="yahya-rabii" height="192px"/>
   <br/>
   
-  
+
   </p>
 </details>
 
@@ -139,7 +139,7 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/Yahya-rabii"><img alt="yahya rabii Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=candida18&custom_title=Candida%20Noronha's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/Yahya-rabii"><img alt="yahya rabii Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=yahya-rabii&custom_title=Candida%20Noronha's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 </details>

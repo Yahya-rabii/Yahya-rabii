@@ -15,7 +15,7 @@
 - Always `learning new things`
 
 <br>
-<p align="center"> <img src="https://profile-counter.glitch.me/yahya-rabii/count.svg">  </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=yahya-rabii&label=Profile%20views&color=0e75b6&style=plastic" alt="yahya-rabii" /> </p>
 
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yahya-rabii&theme=algolia" alt="yahya-rabii"  /></p>
@@ -183,6 +183,10 @@
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
+
+
+
+<p>you're the <img src="https://profile-counter.glitch.me/yahya-rabii/count.svg"> visitor </p>
 
 <hr/>
 

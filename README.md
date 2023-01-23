@@ -1,4 +1,4 @@
-<h1 align="center">![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yahya-rabii&theme=github_dark)<h1/>
+<h1 align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yahya-rabii&theme=github_dark" /><h1/>
 
 
 <h1 align="center">Hi there, I'm Rabii Yahya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><br>

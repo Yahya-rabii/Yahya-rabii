@@ -91,6 +91,8 @@ and i'm </h1>
   &emsp;
     <a href="https://www.firebase.com/"><img alt="firebase" src="https://img.shields.io/badge/firebase%20-%23430098.svg?logo=firebase&logoColor=white"></a>  
   &emsp;
+    <a href="https://www.firebase.com/"><img alt="mongodb" src="https://img.shields.io/badge/mongodb%20-%23430098.svg?logo=mongodb&logoColor=white"></a>  
+  &emsp;
     <a href="https://www.oracle.com/">   <img src ="https://img.shields.io/badge/-oracle-red" /></a>  
   &emsp;
    

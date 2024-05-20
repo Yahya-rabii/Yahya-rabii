@@ -22,7 +22,7 @@ and i'm </h1>
 
 
 <p align="center">
-  <a href="cv/yahya-rabii.pdf">
+  <a href="https://drive.google.com/file/d/1G_XMAFduLfDcrogP1es2mvX7rxCVTo36/view?usp=sharing">
     <img src="logos/profile.png" width="200" height="200" style="border-radius: 50%"/>
   </a>
 </p>

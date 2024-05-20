@@ -1,5 +1,14 @@
-<h1 align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yahya-rabii&theme=github_dark" /><h1/>
+# Hi there 👋
 
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yahya-rabii&theme=github_dark"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yahya-rabii&bg_color=black&color=ffffff&line=04e61b&point=403d3d&area=true&hide_border=true"/>
+</div>
+
+
+<br>
+<br>
+<br>
 
 <h1 align="center">Hi there, I'm Rabii Yahya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><br>
 and i'm </h1>
@@ -25,11 +34,6 @@ and i'm </h1>
   <a href="https://yahya-rabii.github.io/">
     <img src="logos/profile.png" width="200" height="200" style="border-radius: 50%"/>
   </a>
-</p>
-
-## 🔥 Streak Stats
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yahya-rabii&theme=algolia" alt="yahya-rabii"/>
 </p>
 
 

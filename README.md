@@ -23,12 +23,14 @@ and i'm </h1>
 
 <p align="center">
   <a href="https://yahya-rabii.github.io/">
-    <img src="logos/profile.png" width="200" height="200" style="border-radius: 50%" />
+    <img src="logos/profile.png" width="200" height="200" style="border-radius: 50%"/>
   </a>
 </p>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yahya-rabii&theme=algolia" alt="yahya-rabii"  /></p>
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yahya-rabii&theme=algolia" alt="yahya-rabii"/>
+</p>
 
 
 ## 🛠️ Technologies
@@ -209,6 +211,14 @@ and i'm </h1>
 
 <hr/>
 
+
+
+
+<div align="center">
+  <a href="https://yahya-rabii.github.io/">
+  <img  src="logos/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
 
 

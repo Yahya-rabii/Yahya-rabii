@@ -11,14 +11,19 @@ and i'm </h1>
 <br>
 
 ## 👨🏻‍💻 About me
-- school: I'm in my `fourth` year at `EMSI` school
-- I love using Softwares as a solution for every `Problem`
-- student: I’m currently learning: `Software Engineering`.
-- thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1c5kCDhgeUkmZGjyKCNJRFjAe-06LrEE2/view).
-- Always `learning new things`
+- school: I graduated from `EMSI` school with a diploma in `Software Engineering`.
+- I love using software as a solution for every `problem`.
+- student: I’ve studied `Software Engineering` AT  `EMSI` school and obtained a Master's degree from `University Cote d'Azure`.
+- thinking: I’m currently working at `Société Générale Maroc (Digital Factory)` as a `Spring Boot Engineer`.
+- Always `learning new things`.
 
-<br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=yahya-rabii&label=Profile%20views&color=0e75b6&style=plastic" alt="yahya-rabii" /> </p>
+
+## My CV 📄
+
+<center>
+
+[<img src = "logos/profile.png" width="200" height="200" style="border-radius: 50%"/>](https://yahya-rabii.github.io/)
+</center>
 
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yahya-rabii&theme=algolia" alt="yahya-rabii"  /></p>
@@ -29,127 +34,141 @@ and i'm </h1>
 
 ## My favorite tools and technologies ⚙️
 
+
 <table>
   <tr>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="70" height="70" />
       <br>C#
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      </a>
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <img src="logos/python.gif" alt="icon" width="65" height="65" />
       <br>Python
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+      <br>Typescript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
       <br>Javascript
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C++
-    </td>
-       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
-      <br>Django
-    </td>
-       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
-      <br>Github
-    </td>
-          <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
-      <br>Rest API
-    </td>
-          <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Rest API" />
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50" />
-      <br>Nginx
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" width="48" height="48" alt="dart" />
+      <br>Java
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" />
-      <br>GitLab
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+      <img src="logos/html.gif" width="48" height="48" alt="HTML" />
       <br>HTML
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+      <img src="logos/css.gif" width="48" height="48" alt="css" />
       <br>CSS
     </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-      <br>Bootstrap
+    <td align="center" width="96">
+      <img src="logos/node.gif" alt="icon" width="65" height="65" />
+      <br>Node
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
+      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
+      <br>Django
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
       <br>Tailwind
     </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jquery" />
-      <br>JQuery
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
+      <br>Rest API
     </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" />
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Rest API" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50" />
+      <br>Nginx
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="MySQL" />
+      <br>MySQL
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="logos/git.gif" width="50" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center"  width="96">
+      <img src="logos/gitlab.gif" width="48" height="48" alt="GitLab" />
+      <br>GitLab
+    </td>
+     <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
+      <br>Github
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" />
       <br>PostgreSQL
     </td>
-            <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="ASP.NET Core" />
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="ASP.NET Core" />
       <br>ASP.NET
     </td>
-  </tr>
-   <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+      <img src="https://www.edc4it.com/images/thumbs/spring.gif" width="48" height="48" alt="dart" />
+      <br>Spring
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
       <br>Redis
     </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
       <br>Postman
     </td>
-            <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-      <br>Linux
-    </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="dart" />
-      <br>Dart
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" alt="dart" />
-      <br>RabbitMQ
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sentry" width="48" height="48" alt="dart" />
-      <br>sentry
-    </td>
-    <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/typeScript.png" width="48" height="48" alt="dart" />
-      <br>Celery
-    </td>
-    <td align="center" width="96">
-        <img src="https://docusaurus.io/img/spring_Boot.svg" width="48" height="48" alt="dart" />
-      <br>Docusaurus
-    </td>
-    <td align="center" width="96">
-        <img src="https://bruhin.software/img/logos/java.svg" width="40" height="40" alt="dart" />
-      <br>Pytest
+      <img src="logos/swagger.png" width="65" height="65" alt="Swagger" />
+      <br>Swagger
     </td>
   </tr>
- <tr>
- </tr>
+  <tr>
+  <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+      <br>VS Code
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+      <br>Figma
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=photoshop" width="48" height="48" alt="Photoshop" />
+      <br>Photoshop
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=illustrator" width="48" height="48" alt="Illustrator" />
+      <br>Illustrator
+    </td>
+    <td align="center" width="96">
+      <img src="logos/canva.png" width="48" height="48" alt="Adobe XD" />
+      <br>Canva
+    </td>
+    </tr>
 </table>
-
 
 
 ## 📊 Github Stats (Expand to View) 
@@ -164,19 +183,9 @@ and i'm </h1>
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yahya-rabii&show_icons=true&locale=en&layout=compact&theme=algolia" alt="yahya-rabii" height="192px"/>
   <br/>
-  
-
   </p>
 </details>
 
-
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/Yahya-rabii"><img alt="yahya rabii Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=yahya-rabii&custom_title=yahya-rabii's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-</details>
 
 <br/>
 
@@ -193,11 +202,6 @@ and i'm </h1>
 </p>
 
 
-<div align="center">
-  <a href="https://yahya-rabii.github.io/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
 
 
 
@@ -206,11 +210,14 @@ and i'm </h1>
 <hr/>
 
 
+<div align="center">
+  <a href="https://yahya-rabii.github.io/">
+  <img  src="logos/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
 
 
-* Credit: [NOXIDEUS](https://github.com/Yahya-rabii)
-* Last Edited on: 19/07/2022
 
 
 

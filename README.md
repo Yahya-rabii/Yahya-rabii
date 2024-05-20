@@ -1,20 +1,5 @@
-# Hi there 👋
+<h1 align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yahya-rabii&theme=github_dark" /><h1/>
 
-
-<div align="center" style="display: flex; flex-direction: column; justify-content: space-between;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yahya-rabii&theme=github_dark" style="height: 100%; width: auto;" />
-</div>
-<div style="display: flex; justify-content: space-between;">
-  <div style="display: flex; flex-direction: column; justify-content: space-between;">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=yahya-rabii&bg_color=black&color=ffffff&line=04e61b&point=403d3d&area=true&hide_border=true" style="height: 100%; width: auto;" />
-  </div>
-</div>
-
-
-
-<br>
-<br>
-<br>
 
 <h1 align="center">Hi there, I'm Rabii Yahya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><br>
 and i'm </h1>
@@ -192,14 +177,29 @@ and i'm </h1>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="yahya rabii Github Stats" src="https://github-readme-stats.vercel.app/api?username=yahya-rabii&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yahya-rabii&show_icons=true&locale=en&layout=compact&theme=algolia" alt="yahya-rabii" height="192px"/>
+  </p>
+</details>
+
+<details> 
+  <summary><b> 📊 Top languages </b></summary>
   <br/>
+  <p align="center">
+    &nbsp;
+	  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yahya-rabii&theme=github_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yahya-rabii&theme=github_dark" />
+<br/>
+</p>
+</details>
+
+<details> 
+  <summary><b>📊 GitHub Stats</b></summary>
+  <br/>
+  <p align="center">
+    <img alt="GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yahya-rabii&theme=github_dark" height="192px"/>
   </p>
 </details>
 
 
-<br/>
 
 ## 🙋‍♀️ Let's Connect
 <p align="center">

@@ -22,7 +22,7 @@ and i'm </h1>
 
 
 <p align="center">
-  <a href="https://yahya-rabii.github.io/">
+  <a href="cv/yahya-rabii.pdf">
     <img src="logos/profile.png" width="200" height="200" style="border-radius: 50%"/>
   </a>
 </p>

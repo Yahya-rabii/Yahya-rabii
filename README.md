@@ -1,9 +1,10 @@
 # Hi there 👋
 
-<div style="display: flex; justify-content: space-between;">
-  <div style="display: flex; flex-direction: column; justify-content: space-between;">
+
+<div align="center" style="display: flex; flex-direction: column; justify-content: space-between;">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yahya-rabii&theme=github_dark" style="height: 100%; width: auto;" />
-  </div>
+</div>
+<div style="display: flex; justify-content: space-between;">
   <div style="display: flex; flex-direction: column; justify-content: space-between;">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=yahya-rabii&bg_color=black&color=ffffff&line=04e61b&point=403d3d&area=true&hide_border=true" style="height: 100%; width: auto;" />
   </div>

@@ -134,15 +134,15 @@ and i'm </h1>
       <br>sentry
     </td>
     <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Celery_logo.png" width="48" height="48" alt="dart" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/typeScript.png" width="48" height="48" alt="dart" />
       <br>Celery
     </td>
     <td align="center" width="96">
-        <img src="https://docusaurus.io/img/docusaurus_keytar.svg" width="48" height="48" alt="dart" />
+        <img src="https://docusaurus.io/img/spring_Boot.svg" width="48" height="48" alt="dart" />
       <br>Docusaurus
     </td>
     <td align="center" width="96">
-        <img src="https://bruhin.software/img/logos/pytest.svg" width="40" height="40" alt="dart" />
+        <img src="https://bruhin.software/img/logos/java.svg" width="40" height="40" alt="dart" />
       <br>Pytest
     </td>
   </tr>

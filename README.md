@@ -20,10 +20,12 @@ and i'm </h1>
 
 ## My CV 📄
 
-<center>
 
-[<img src = "logos/profile.png" width="200" height="200" style="border-radius: 50%"/>](https://yahya-rabii.github.io/)
-</center>
+<p align="center">
+  <a href="https://yahya-rabii.github.io/">
+    <img src="logos/profile.png" width="200" height="200" style="border-radius: 50%" />
+  </a>
+</p>
 
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yahya-rabii&theme=algolia" alt="yahya-rabii"  /></p>
@@ -34,8 +36,7 @@ and i'm </h1>
 
 ## My favorite tools and technologies ⚙️
 
-
-<table>
+<table align="center">
   <tr>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="70" height="70" />
@@ -170,7 +171,6 @@ and i'm </h1>
     </tr>
 </table>
 
-
 ## 📊 Github Stats (Expand to View) 
 
 
@@ -210,14 +210,11 @@ and i'm </h1>
 <hr/>
 
 
-<div align="center">
-  <a href="https://yahya-rabii.github.io/">
-  <img  src="logos/grid-snake.svg"
-       alt="snake" /></a>
-</div>
 
 
 
+* Credit: [NOXIDEUS](https://github.com/Yahya-rabii)
+* Last Edited on: 05/20/2024
 
 
 

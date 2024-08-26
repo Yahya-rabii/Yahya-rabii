@@ -23,7 +23,7 @@ and i'm </h1>
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1flfcfoili-gin4TxkvitKCJsF18DERau/view?usp=sharing">
-    <img src="https://drive.google.com/file/d/1WurW5Xe863p31kBwjXzhzKShrjW-Xaox/view?usp=sharing" width="200" height="200" style="border-radius: 50%"/>
+    <img src="https://github.com/user-attachments/assets/d943e3ac-71d9-4ad3-b446-c453b0bc4d08" width="200" height="200" style="border-radius: 50%"/>
   </a>
 </p>
 

@@ -22,8 +22,8 @@ and i'm </h1>
 
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1G_XMAFduLfDcrogP1es2mvX7rxCVTo36/view?usp=sharing">
-    <img src="logos/profile.png" width="200" height="200" style="border-radius: 50%"/>
+  <a href="https://drive.google.com/file/d/1flfcfoili-gin4TxkvitKCJsF18DERau/view?usp=sharing">
+    <img src="[logos/profile.png](https://drive.google.com/file/d/1WurW5Xe863p31kBwjXzhzKShrjW-Xaox/view?usp=sharing)" width="200" height="200" style="border-radius: 50%"/>
   </a>
 </p>
 

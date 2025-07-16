@@ -4,10 +4,10 @@
 <h1 align="center">Hi there, I'm Rabii Yahya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><br>
 and i'm </h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=an+Engineering+Student;a+Web+Developer;a+Graphic%20Designer;an+AI%20|%20ML%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=an+Engineering;a+Web+Developer;a+Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">I am a Junior dev guy , studying at EMSI school . I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
+<h4 align="center">I am a Junior dev guy , graduating from EMSI school . I enjoy the art of Coding, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
 <br>
 
 ## 👨🏻‍💻 About me
@@ -214,10 +214,6 @@ and i'm </h1>
 </p>
 
 
-
-
-
-<h4 align="center">visitors number <br> <img src="https://profile-counter.glitch.me/yahya-rabii/count.svg">  </h4>
 
 <hr/>
 

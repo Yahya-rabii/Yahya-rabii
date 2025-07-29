@@ -11,11 +11,8 @@ and i'm </h1>
 <br>
 
 ## 👨🏻‍💻 About me
-- school: I graduated from `EMSI` school with a diploma in `Software Engineering`.
-- I love using software as a solution for every `problem`.
-- student: I’ve studied `Software Engineering` AT  `EMSI` school and obtained a Master's degree from `University Cote d'Azure`.
-- thinking: I’m currently working at `Société Générale Maroc (Digital Factory)` as a `Spring Boot Engineer`.
-- Always `learning new things`.
+- I’ve studied `Software Engineering` AT  `EMSI` school and obtained a Master's degree from `University Cote d'Azure`.
+- I’m currently working at  `Saham Bank` ex `Société Générale Maroc` as a `Software engineer`.
 
 
 ## My CV 📄
@@ -23,7 +20,7 @@ and i'm </h1>
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1flfcfoili-gin4TxkvitKCJsF18DERau/view?usp=sharing">
-    <img src="https://github.com/user-attachments/assets/d943e3ac-71d9-4ad3-b446-c453b0bc4d08" width="200" height="200" style="border-radius: 50%"/>
+    <img src="https://github.com/user-attachments/assets/d943e3ac-71d9-4ad3-b446-c453b0bc4d08" width="100" height="100" style="border-radius: 100%"/>
   </a>
 </p>
 

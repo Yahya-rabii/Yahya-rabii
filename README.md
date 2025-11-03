@@ -15,11 +15,11 @@ and i'm </h1>
 - I’m currently working at  `Saham Bank` ex `Société Générale Maroc` as a `Software engineer`.
 
 
-## My CV 📄
+## My Portfolio 📄
 
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1flfcfoili-gin4TxkvitKCJsF18DERau/view?usp=sharing">
+  <a href="https://Yahya.rabii.me">
     <img src="https://github.com/user-attachments/assets/d943e3ac-71d9-4ad3-b446-c453b0bc4d08" width="100" height="100" style="border-radius: 100%"/>
   </a>
 </p>
